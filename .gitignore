@@ -13,5 +13,4 @@
 /captures
 .externalNativeBuild
 app/release/
-/111.txt
-*.txt
+111.txt
